@@ -12,7 +12,7 @@ const Home = () => {
         </h1>
         <br></br>
         <h2 className='text-4xl sm:text-3xl font-bold text-[#8892b0]'>
-          Backend Developer
+          Full Stack Developer
         </h2>
         <br></br>
         <div>

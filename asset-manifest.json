@@ -1,29 +1,33 @@
 {
   "files": {
     "main.css": "/Portfolio-Website/static/css/main.50ce9a46.css",
-    "main.js": "/Portfolio-Website/static/js/main.b71f0cc9.js",
+    "main.js": "/Portfolio-Website/static/js/main.c7dcf30e.js",
+    "static/media/gcp-logo.png": "/Portfolio-Website/static/media/gcp-logo.c91f74d65376fca12635.png",
     "static/media/gioti.png": "/Portfolio-Website/static/media/gioti.e843cb4536a755aa6b9b.png",
     "static/media/programmer.gif": "/Portfolio-Website/static/media/programmer.05f035b3a27b38553a6a.gif",
+    "static/media/mysql-logo.png": "/Portfolio-Website/static/media/mysql-logo.167c88550478e6f0f85c.png",
+    "static/media/react-logo.png": "/Portfolio-Website/static/media/react-logo.6bcffb56bd0efaa47767.png",
+    "static/media/nodejs-logo.png": "/Portfolio-Website/static/media/nodejs-logo.aa8bc616bb8252fa29f3.png",
     "static/media/docker-logo.png": "/Portfolio-Website/static/media/docker-logo.ed7146f08645fbd2c65f.png",
     "static/media/intellij-logo.png": "/Portfolio-Website/static/media/intellij-logo.b3c11b75c2463821e485.png",
     "static/media/python-logo.png": "/Portfolio-Website/static/media/python-logo.52d7bb207f9868b90e39.png",
+    "static/media/mongodb-logo.png": "/Portfolio-Website/static/media/mongodb-logo.2f81ed7ec1fd818da1b5.png",
     "static/media/linux-logo.png": "/Portfolio-Website/static/media/linux-logo.19e79ea7cccd0455cb15.png",
     "static/media/spring-logo.png": "/Portfolio-Website/static/media/spring-logo.64315a3d893e47ca84d7.png",
     "static/media/java-logo.png": "/Portfolio-Website/static/media/java-logo.fdabd4e11f1235e4e8e0.png",
     "static/media/c-logo.png": "/Portfolio-Website/static/media/c-logo.b589c83b74cdb0655cf6.png",
-    "static/media/mysql-logo.png": "/Portfolio-Website/static/media/mysql-logo.8549d8e867b67392c384.png",
     "static/media/ecohack.png": "/Portfolio-Website/static/media/ecohack.19ca1a180923760ec453.png",
-    "static/media/mongodb-logo.png": "/Portfolio-Website/static/media/mongodb-logo.f4f176c7e468e9487a6d.png",
+    "static/media/gradle-logo.png": "/Portfolio-Website/static/media/gradle-logo.6282d79ca052f4c97be1.png",
     "static/media/vscode-logo.png": "/Portfolio-Website/static/media/vscode-logo.6a9188e154f892873923.png",
-    "static/media/git-logo.png": "/Portfolio-Website/static/media/git-logo.96d6432c1a80a9c579bc.png",
-    "static/media/gradle-logo.png": "/Portfolio-Website/static/media/gradle-logo.241a1d6e922542f576f4.png",
     "static/media/watchdog.png": "/Portfolio-Website/static/media/watchdog.d280bdd544ea2dbd69a8.png",
+    "static/media/javascript-logo.png": "/Portfolio-Website/static/media/javascript-logo.3dfb665e058d08c99f28.png",
+    "static/media/git-logo.png": "/Portfolio-Website/static/media/git-logo.7d664489ed331806ddc8.png",
     "index.html": "/Portfolio-Website/index.html",
     "main.50ce9a46.css.map": "/Portfolio-Website/static/css/main.50ce9a46.css.map",
-    "main.b71f0cc9.js.map": "/Portfolio-Website/static/js/main.b71f0cc9.js.map"
+    "main.c7dcf30e.js.map": "/Portfolio-Website/static/js/main.c7dcf30e.js.map"
   },
   "entrypoints": [
     "static/css/main.50ce9a46.css",
-    "static/js/main.b71f0cc9.js"
+    "static/js/main.c7dcf30e.js"
   ]
 }
